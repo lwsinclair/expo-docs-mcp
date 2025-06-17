@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/henzolena-expo-docs-mcp-badge.png)](https://mseep.ai/app/henzolena-expo-docs-mcp)
+
 # Expo Documentation MCP Server
 
 This is a Model Context Protocol (MCP) server for Expo documentation. It provides AI assistants with access to up-to-date Expo documentation, including the API reference, guides, and tutorials.
